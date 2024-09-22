@@ -1,4 +1,4 @@
-<img width="140" alt="image" src="https://github.com/user-attachments/assets/416213b2-2307-4c81-a79e-6637193828cb"># Ducker
+# Ducker
 The simplest Discord ticket bot.
 # 1. Installation
 First of all you will need to access this link below: https://discord.com/oauth2/authorize?client_id=1287304340675104828
