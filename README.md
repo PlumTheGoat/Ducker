@@ -1,4 +1,4 @@
-# Ducker
+# Ducker v0.1.0-alpha
 The simplest Discord ticket bot.
 # 1. Installation
 First of all you will need to access this link below: https://discord.com/oauth2/authorize?client_id=1287304340675104828
