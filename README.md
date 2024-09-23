@@ -15,9 +15,9 @@ Generate a new ticket.
 Closes the current ticket.
 # 3. Finishing up
 In order to generate a new ticket you would have to put a subject using this format. 
-/newticket [subject]
+!newticket [subject]
 # 4. Bugs and errors
 You might encounter the following bugs:
 Bot goes offline randomly.
-/newticket cmd might not work at some times.
+!newticket cmd might not work at some times.
 
